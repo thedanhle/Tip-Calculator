@@ -28,11 +28,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/danhle/Downloads/ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/69592206/144135831-40005b63-b556-43a8-94ae-de9d75dd3ff8.gif)
 
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
